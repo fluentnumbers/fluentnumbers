@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi👋, I am Andrejs
+
+Connect with me
+
+https://img.shields.io/badge/LinkedIn-fedjajevs?style=for-the-badge&logo=linkedin&logoColor=white
+
+https://fluentnumbers.github.io/about/
+
+![](https://komarev.com/ghpvc/?username=fluentnumbers&style=flat-square)
 
 <!--
 **fluentnumbers/fluentnumbers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
