@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I am a passionate data scientist and ML engineer on a continuous journey of **learning by doing and sharing**.  
 
-✨ If you have a great idea we can work on together (or any other great idea), click on my name above to find out my contacts.✨ 
+✨ If you have a great idea we can work on together (or any other great idea), don't hesitate to reach out.✨ 
 
 
 ## Here is the list of things I was lately busy with:
