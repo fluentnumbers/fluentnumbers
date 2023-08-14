@@ -11,12 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://komarev.com/ghpvc/?username=fluentnumbers&label=PROFILE+VIEWS)
 -->
 
 [<img align="right" src="https://fluentnumbers.github.io//assets/images/profile.png" width="200"/>](https://fluentnumbers.github.io/)
 # Hello👋, I am [Andrejs](https://fluentnumbers.github.io/)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fedjajevs/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fluentnumbers)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fedjajevs/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fluentnumbers) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+
+
+
 
 I am a passionate data scientist and ML engineer on a continuous journey of **learning by doing and sharing**.  
 
