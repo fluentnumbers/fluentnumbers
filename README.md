@@ -22,20 +22,21 @@ Here are some ideas to get you started:
 
 
 
-I am a passionate data scientist and ML engineer on a continuous journey of **learning by doing and sharing**.  
+I am a passionate data scientist and ML engineer on a continuous journey of **learning by doing & sharing**.  
 
 ✨ If you have a great idea we can work on together (or any other great idea), don't hesitate to reach out.✨ 
 
 
-## Here is the list of things I was lately busy with:
+## My latest activities
 
-- [ ] :rocket: Udacity program [Data Engineering with Azure](https://learn.udacity.com/nanodegrees/nd0277/) provides a good headstart (or refresh) on the concepts of data warehouses, data lakes and, also, data lakehouses...so, everything-data + using Azure as an example platform. Hands-on part includes DIY mini-projects with Azure Synapse, Databricks and Pipelines.  
+ - [x] :rocket: **Udacity nano-degree [Data Engineering with Microsoft Azure](https://learn.udacity.com/nanodegrees/nd0277/)**  
+Excellent headstart on the concepts of data warehouses\lakes, distributed computing and modeling for analytics purposes using Azure as an example platform. Hands-on part includes DIY projects employing Azure Synapse, Databricks and Data Factory.  
   Project repository [fluentnumbers/udacity_DE_with_Azure](https://github.com/fluentnumbers/udacity_DE_with_Azure/tree/main) contains all the homeworks and serves as a fully reproducible guide of the course.
 
 - [DataTalksClub](https://github.com/DataTalksClub)
   Community of volunteers facilitating several top-class **free** _zoomcamps_ with very practice-heavy requirements for obtaining certificates and lively Slack-community.
   
-  - [ ] :rocket: MLOps Zoomcamp
-    Project: [fluentnumbers/portfolio_mlops](https://github.com/fluentnumbers/portfolio_mlops) features end-to-end MLOps pipeline built around an NLP task, but applicable as a template to any ML problem. Check out the techstack inside.  
-  - [x] :rocket: Data Engineering Zoomcamp  
+  - [ ] :rocket: **MLOps Zoomcamp**  
+    Project: [fluentnumbers/portfolio_mlops](https://github.com/fluentnumbers/portfolio_mlops) features end-to-end MLOps pipeline built around an NLP task, but applicable as a template to vast range of ML problems. Check out the techstack inside.  
+  - [x] :rocket: **Data Engineering Zoomcamp**  
     Project: [fluentnumbers/ecommerce_behavior](https://github.com/fluentnumbers/ecommerce_behavior) examplifies how data analytics pipeline can be build for an ecommerce dataset - from scheduled data injection to hosted dashboards. 
