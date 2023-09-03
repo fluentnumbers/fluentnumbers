@@ -36,7 +36,7 @@ Excellent headstart on the concepts of data warehouses\lakes, distributed comput
 - [DataTalksClub](https://github.com/DataTalksClub)
   Community of volunteers facilitating several top-class **free** _zoomcamps_ with very practice-heavy requirements for obtaining certificates and lively Slack-community.
   
-  - [ ] :rocket: **MLOps Zoomcamp**  
+  - [x] :rocket: **MLOps Zoomcamp**  
     Project: [fluentnumbers/portfolio_mlops](https://github.com/fluentnumbers/portfolio_mlops) features end-to-end MLOps pipeline built around an NLP task, but applicable as a template to vast range of ML problems. Check out the techstack inside.  
   - [x] :rocket: **Data Engineering Zoomcamp**  
     Project: [fluentnumbers/ecommerce_behavior](https://github.com/fluentnumbers/ecommerce_behavior) examplifies how data analytics pipeline can be build for an ecommerce dataset - from scheduled data injection to hosted dashboards. 
