@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![](https://komarev.com/ghpvc/?username=fluentnumbers&label=PROFILE+VIEWS)
 -->
+
+
 [<img align="right" src="https://publish-01.obsidian.md/access/55a318343fe44979100d2afa246a9da7/assets/profile.png" width="200"/>](https://fluentnumbers.com/)
 # Hello👋, I am [Andrejs](https://fluentnumbers.com/)
 
